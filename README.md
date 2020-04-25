@@ -18,7 +18,7 @@ Create an application that can be used to write, save, and delete notes. This ap
 
 The application is deployed on Heruko at:
 
-![Deployed html ](https://git.heroku.com/hidden-refuge-08298.git)
+![Deployed html ](https://hidden-refuge-08298.herokuapp.com/)
 
 ## Usage
 
